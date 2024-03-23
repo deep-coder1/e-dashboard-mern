@@ -32,6 +32,18 @@
   margin-top: 100px;
 }
 
+.nav-right {
+  text-align: right;
+}
+
+.logo {
+  width: 45px;
+  float: left;
+  border-radius: 50%;
+  margin-top: 3px;
+  margin-left: 20px;
+}
+
 .inputBox {
   display: block;
   margin: 25px;
